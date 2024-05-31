@@ -3,4 +3,4 @@
   
 ## Installation
 
-Counter Value persists even after refreshing, used Local storage.
+clone the repo into a directory and open html file with browser.
